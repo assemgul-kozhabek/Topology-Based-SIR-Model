@@ -3,6 +3,7 @@ This study leverages epidemic theory, specifically a network-aware SIR model, to
 
 # Citation
 If you find this repository (e.g., the code and the datasets) useful for your research, please cite the paper below:
+```bibtex
 @article{kozhabek2024modeling,
   title={Modeling traffic congestion spreading using a topology-based SIR epidemic model},
   author={Kozhabek, Assemgul and Chai, Wei Koong and Zheng, Ge},
